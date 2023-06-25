@@ -8,7 +8,7 @@
 
 ### Task2
 - python type conversion tutorial
-- sample propgrsm on type conversion
+- sample propgram on type conversion
 - python I/O tutorial
 - sample progrsm on python I/O
 - pyhton operators tutorial
